@@ -1,7 +1,5 @@
 # ML_KINML: Evaluating House Prices (via House Prices dataset, Ames, Iowa)
 
----
-
 ## 💻 How to run?
 
 1. Clone this repository  
